@@ -4,7 +4,7 @@
 </p>
 
 <!-- Header -->
-<h1 align="center">Hey, I'm Zziirt! 👋</h1>
+<h1 align="center">Hey, I'm ZZII! 🫂</h1>
 <p align="center">Technical Admin on Minecraft Servers | Full Stack Developer | Web Enthusiast</p>
 
 <!-- Social Links -->
@@ -23,13 +23,27 @@ Welcome to my GitHub! I'm Zziirt, a passionate individual with a diverse skill s
 
 ### My Stack 🛠️
 
-![JavaScript](https://img.shields.io/badge/JavaScript-B8860B?style=for-the-badge&logo=javascript&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-A52A2A?style=for-the-badge&logo=html5&logoColor=black) ![CSS](https://img.shields.io/badge/CSS-6495ED?style=for-the-badge&logo=css3&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-DDA0DD?style=for-the-badge&logo=sass&logoColor=FF00FF) ![Scss](https://img.shields.io/badge/Scss-800080?style=for-the-badge&logo=sass&logoColor=F0FFFF)
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-B8860B?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-A52A2A?style=for-the-badge&logo=html5&logoColor=black" />
+  <img src="https://img.shields.io/badge/CSS-6495ED?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-DDA0DD?style=for-the-badge&logo=sass&logoColor=FF00FF" />
+  <img src="https://img.shields.io/badge/Scss-800080?style=for-the-badge&logo=sass&logoColor=F0FFFF" />
+</p>
 
-![Node.js](https://img.shields.io/badge/Node.JS-green?style=for-the-badge&logo=node.js&logoColor=F5F5F5) ![React](https://img.shields.io/badge/React-4169E1?style=for-the-badge&logo=react&logoColor=E0FFFF) ![Vite](https://img.shields.io/badge/Vite-FFFFFF?style=for-the-badge&logo=vite&logoColor=FFA500)
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.JS-green?style=for-the-badge&logo=node.js&logoColor=F5F5F5" />
+  <img src="https://img.shields.io/badge/React-4169E1?style=for-the-badge&logo=react&logoColor=E0FFFF" />
+  <img src="https://img.shields.io/badge/Vite-FFFFFF?style=for-the-badge&logo=vite&logoColor=FFA500" />
+</p>
 
 ### Databases 🗄️
 
-![SQLite](https://img.shields.io/badge/SQlite-808080?style=for-the-badge&logo=sqlite&logoColor=FFFFFF) ![MySQL](https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=00FF00) ![MariaDB](https://img.shields.io/badge/MariaDB-FF00FF?style=for-the-badge&logo=mariadb&logoColor=FFFFFF)
+<p align="center">
+  <img src="https://img.shields.io/badge/SQlite-808080?style=for-the-badge&logo=sqlite&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=00FF00" />
+  <img src="https://img.shields.io/badge/MariaDB-FF00FF?style=for-the-badge&logo=mariadb&logoColor=FFFFFF" />
+</p>
 
 ### Minecraft Mastery 🎮
 
