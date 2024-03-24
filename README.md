@@ -10,6 +10,7 @@ My Stack
 <img src="https://img.shields.io/badge/React-4169E1?style=for-the-badge&logo=react&logoColor=E0FFFF" />
 <img src="https://img.shields.io/badge/Sass-DDA0DD?style=for-the-badge&logo=sass&logoColor=FF00FF" />
 <img src="https://img.shields.io/badge/Scss-800080?style=for-the-badge&logo=sass&logoColor=F0FFFF" />
+<img src="https://img.shields.io/badge/Vite-FFFFFF?style=for-the-badge&logo=vite&logoColor=FFA500" />
 
 Minecraft Mastery 🎮
 In the vast realm of Minecraft, I am the architect of dreams and the guardian of realms. As a seasoned Technical Admin, I possess a deep understanding of server infrastructure, plugin development, and performance optimization. From constructing intricate redstone contraptions to orchestrating epic PvP battles, I transform pixels into unforgettable experiences.
