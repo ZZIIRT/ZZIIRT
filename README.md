@@ -15,6 +15,7 @@ My Stack
 Databases
 
 <img src="https://img.shields.io/badge/SQlite-808080?style=for-the-badge&logo=sqlite&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/MySQL-32CD32?style=for-the-badge&logo=mysql&logoColor=FFFFFF" />
 
 
 Minecraft Mastery 🎮
