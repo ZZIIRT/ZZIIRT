@@ -1,6 +1,6 @@
 <!-- ASCII Art Banner -->
 <p align="center">
-  <img src="https://your-image-url.com" alt="Zziirt Banner" />
+  <img src="https://img.freepik.com/free-vector/realistic-polygonal-background_23-2148921891.jpg" alt="Zziirt Banner" />
 </p>
 
 <!-- Header -->
