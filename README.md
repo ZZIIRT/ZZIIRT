@@ -9,11 +9,11 @@
 
 <!-- Social Links -->
 <p align="center">
-  <a href="mailto:your@email.com">Email</a> •
-  <a href="https://twitter.com/your_twitter_handle">Twitter</a> •
-  <a href="https://linkedin.com/in/your-linkedin-profile">LinkedIn</a> •
-  <a href="https://yourportfolio.com">Portfolio</a>
+  <a href="https://vk.com/rztkaytka" style="text-decoration: none; margin: 0 10px; color: #4C75A3; font-weight: bold;">VK</a> •
+  <a href="https://t.me/ZZIRTK" style="text-decoration: none; margin: 0 10px; color: #27A6E0; font-weight: bold;">TG</a> •
+  <a href="https://zzii.site" style="text-decoration: none; margin: 0 10px; color: #833AB4; font-weight: bold;">Portfolio</a>
 </p>
+
 
 ---
 
