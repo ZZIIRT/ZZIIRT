@@ -4,7 +4,8 @@ Welcome to my GitHub! I'm Zziirt, a passionate individual with a diverse skill s
 My Stack 
 
 <img src="https://img.shields.io/badge/JavaScript-B8860B?style=for-the-badge&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/Html-A52A2A?style=for-the-badge&logo=html5&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML-A52A2A?style=for-the-badge&logo=html5&logoColor=black" />
+<img src="https://img.shields.io/badge/CSS-6495ED?style=for-the-badge&logo=css3&logoColor=white" />
 
 Minecraft Mastery 🎮
 In the vast realm of Minecraft, I am the architect of dreams and the guardian of realms. As a seasoned Technical Admin, I possess a deep understanding of server infrastructure, plugin development, and performance optimization. From constructing intricate redstone contraptions to orchestrating epic PvP battles, I transform pixels into unforgettable experiences.
