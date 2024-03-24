@@ -12,6 +12,11 @@ My Stack
 <img src="https://img.shields.io/badge/Scss-800080?style=for-the-badge&logo=sass&logoColor=F0FFFF" />
 <img src="https://img.shields.io/badge/Vite-FFFFFF?style=for-the-badge&logo=vite&logoColor=FFA500" />
 
+Databases
+
+<img src="https://img.shields.io/badge/SQlite-808080?style=for-the-badge&logo=sqlite&logoColor=FFFFFF" />
+
+
 Minecraft Mastery 🎮
 In the vast realm of Minecraft, I am the architect of dreams and the guardian of realms. As a seasoned Technical Admin, I possess a deep understanding of server infrastructure, plugin development, and performance optimization. From constructing intricate redstone contraptions to orchestrating epic PvP battles, I transform pixels into unforgettable experiences.
 
