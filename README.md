@@ -16,6 +16,7 @@ Databases
 
 <img src="https://img.shields.io/badge/SQlite-808080?style=for-the-badge&logo=sqlite&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=00FF00" />
+<img src="https://img.shields.io/badge/MariaDB-FF00FF?style=for-the-badge&logo=mariadb&logoColor=FFFFFF" />
 
 
 Minecraft Mastery 🎮
