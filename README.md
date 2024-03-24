@@ -1,8 +1,3 @@
-<!-- ASCII Art Banner -->
-<p align="center">
-  <img src="https://img.freepik.com/free-vector/realistic-polygonal-background_23-2148921891.jpg" alt="Zziirt Banner" />
-</p>
-
 <!-- Header -->
 <h1 align="center">Hey, I'm ZZII! 🫂</h1>
 <p align="center">Technical Admin on Minecraft Servers | Full Stack Developer | Web Enthusiast</p>
