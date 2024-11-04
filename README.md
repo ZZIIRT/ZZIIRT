@@ -28,6 +28,10 @@ Welcome to my GitHub! I'm Zziirt, a passionate individual with a diverse skill s
   <img src="https://img.shields.io/badge/Vite-FFFFFF?style=for-the-badge&logo=vite&logoColor=FFA500" />
 </p>
 
+<p align="center">
+  Стеков стало больше, тут я не обновляю..
+</p>
+
 ### Databases 🗄️
 
 <p align="center">
