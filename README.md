@@ -1,6 +1,6 @@
 
 <!-- Header -->
-<h1 align="center">Привет, я ZZII! 🫂</h1>
+<h1 align="center">Привет, я ZZII! 🪙</h1>
 <p align="center">🌟 Minecraft Разработчик | 🖥️ Full Stack Разработчик | 🌐 Любитель веба</p>
 
 <!-- Social Links -->
