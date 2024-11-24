@@ -1,33 +1,35 @@
+
 <!-- Header -->
-<h1 align="center">Hey, I'm ZZII! 🫂</h1>
-<p align="center">🌟 Minecraft Admin | 🖥️ Full Stack Developer | 🌐 Web Enthusiast</p>
+<h1 align="center">Привет, я ZZII! 🫂</h1>
+<p align="center">🌟 Minecraft Разработчик | 🖥️ Full Stack Разработчик | 🌐 Любитель веба</p>
 
 <!-- Social Links -->
 <p align="center">
   <a href="https://app.zzii.info" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-RESUME-833AB4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Resume">
+    <img src="https://img.shields.io/badge/-МОЁ%20РЕЗЮМЕ-833AB4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Resume">
   </a>
 </p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/48876993/235451937-a2c906af-f8e4-4f6b-8a14-453f96de3c3d.gif" alt="Cool Line Divider" width="80%">
+  <img src="https://user-images.githubusercontent.com/48876993/235451937-a2c906af-f8e4-4f6b-8a14-453f96de3c3d.gif" alt="Красивый разделитель" width="80%">
 </div>
 
 ---
 
-### About Me 👋
+### О себе 👋
 
-Hey there! I'm ZZII—a tech-savvy dreamer who loves **building worlds** in Minecraft and **developing cool web stuff**. Whether it's optimizing game servers or crafting user-friendly websites, I’m all about turning ideas into reality.
+Привет! Я ZZII, занимаюсь разработкой в Minecraft и созданием крутых веб-проектов.  
+Оптимизация серверов, пользовательские плагины или простые и красивые сайты — всё это мне интересно.
 
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/48876993/235452053-429f3a6b-2cda-4b0c-9fc0-3bdff671e2c1.gif" alt="Cool Divider" width="80%">
+  <img src="https://user-images.githubusercontent.com/48876993/235452053-429f3a6b-2cda-4b0c-9fc0-3bdff671e2c1.gif" alt="Разделитель" width="80%">
 </div>
 
 ---
 
-### My Tech Stack 🛠️
+### Мой стек 🛠️
 
 <p align="center">
   <!-- Languages -->
@@ -57,7 +59,7 @@ Hey there! I'm ZZII—a tech-savvy dreamer who loves **building worlds** in Mine
 
 ---
 
-### Databases 🗄️
+### Базы данных 🗄️
 
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -72,15 +74,18 @@ Hey there! I'm ZZII—a tech-savvy dreamer who loves **building worlds** in Mine
 
 ---
 
-### Full Stack Wizardry 💻
+### Full Stack Разработка 💻
 
-From slick **frontend designs** to solid **backend systems**, I build web solutions that are fast, functional, and fun. I love experimenting with new tools and pushing the limits of what’s possible.
-
-### Let's Connect! 🤝
-
-Want to collaborate? Have a project in mind? Or just wanna chat tech?  
-Reach out—I'm always excited to meet new people and build something amazing!
+Создаю быстрые и красивые сайты, как с дизайном, так и с серверной частью.  
+Всегда стараюсь использовать лучшие технологии и делать что-то новое.
 
 ---
 
-**✨ Let’s make something together!**
+### Напиши мне! 🤝
+
+Хочешь сделать проект? Есть идея? Или просто хочешь пообщаться?  
+Пиши, буду рад новым людям и интересным предложениям!
+
+---
+
+**✨ Давайте сделаем что-то крутое вместе!**
