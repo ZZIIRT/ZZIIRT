@@ -76,14 +76,6 @@ Hey there! I'm ZZII—a tech-savvy dreamer who loves **building worlds** in Mine
 
 From slick **frontend designs** to solid **backend systems**, I build web solutions that are fast, functional, and fun. I love experimenting with new tools and pushing the limits of what’s possible.
 
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/48876993/235452323-dcb4c486-0bc5-4b99-9d5d-5c506f1a68b7.gif" alt="Final Divider" width="80%">
-</div>
-
----
-
 ### Let's Connect! 🤝
 
 Want to collaborate? Have a project in mind? Or just wanna chat tech?  
@@ -91,4 +83,4 @@ Reach out—I'm always excited to meet new people and build something amazing!
 
 ---
 
-**✨ Let’s make something awesome together!**
+**✨ Let’s make something together!**
