@@ -68,16 +68,9 @@ Hey there! I'm ZZII—a tech-savvy dreamer who loves **building worlds** in Mine
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
----
-
-### Minecraft Mastery 🎮
-
-I’ve been **optimizing servers**, creating **custom plugins**, and building epic **Minecraft experiences** for years. Whether it’s **PvP arenas**, **Redstone magic**, or **performance tuning**, I’m the guy who ensures everything works perfectly.
-
 <div align="center">
   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Minecraft Mastery" width="50%" />
 </div>
-
 ---
 
 <div align="center">
