@@ -1,52 +1,78 @@
+
 <!-- Header -->
 <h1 align="center">Hey, I'm ZZII! 🫂</h1>
-<p align="center">Technical Admin on Minecraft Servers | Full Stack Developer | Web Enthusiast</p>
+<p align="center">🌟 Minecraft Admin | 🖥️ Full Stack Developer | 🌐 Web Enthusiast</p>
 
 <!-- Social Links -->
 <p align="center">
-  <a href="https://app.zzii.info" style="text-decoration: none; color: #833AB4; font-weight: bold;">RESUME</a>
+  <a href="https://app.zzii.info" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-RESUME-833AB4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Resume">
+  </a>
 </p>
 
-### About Me
+---
 
-Welcome to my GitHub! I'm Zziirt, a passionate individual with a diverse skill set and an insatiable curiosity for technology. By day, I wield my expertise as a Technical Admin on Minecraft servers, ensuring that every player's experience is nothing short of extraordinary. By night, I dive into the world of Full Stack Development, crafting elegant web solutions that push the boundaries of creativity and innovation.
+### About Me 👋
 
-### My Stack 🛠️
+Hey there! I'm ZZII—a tech-savvy dreamer who loves **building worlds** in Minecraft and **developing cool web stuff**. Whether it's optimizing game servers or crafting user-friendly websites, I’m all about turning ideas into reality.
+
+---
+
+### My Tech Stack 🛠️
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-B8860B?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-A52A2A?style=for-the-badge&logo=html5&logoColor=black" />
-  <img src="https://img.shields.io/badge/CSS-6495ED?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sass-DDA0DD?style=for-the-badge&logo=sass&logoColor=FF00FF" />
-  <img src="https://img.shields.io/badge/Scss-800080?style=for-the-badge&logo=sass&logoColor=F0FFFF" />
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.JS-green?style=for-the-badge&logo=node.js&logoColor=F5F5F5" />
-  <img src="https://img.shields.io/badge/React-4169E1?style=for-the-badge&logo=react&logoColor=E0FFFF" />
-  <img src="https://img.shields.io/badge/Vite-FFFFFF?style=for-the-badge&logo=vite&logoColor=FFA500" />
+  <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
 </p>
 
 <p align="center">
-  Стеков стало больше, тут я не обновляю..
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
+
+---
 
 ### Databases 🗄️
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQlite-808080?style=for-the-badge&logo=sqlite&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/MariaDB-FF00FF?style=for-the-badge&logo=mariadb&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
+
+---
 
 ### Minecraft Mastery 🎮
 
-In the vast realm of Minecraft, I am the architect of dreams and the guardian of realms. As a seasoned Technical Admin, I possess a deep understanding of server infrastructure, plugin development, and performance optimization. From constructing intricate redstone contraptions to orchestrating epic PvP battles, I transform pixels into unforgettable experiences.
+I’ve been **optimizing servers**, creating **custom plugins**, and building epic **Minecraft experiences** for years. Whether it’s **PvP arenas**, **Redstone magic**, or **performance tuning**, I’m the guy who ensures everything works perfectly.
+
+---
 
 ### Full Stack Wizardry 💻
 
-As a Full Stack Developer, I thrive on the intersection of artistry and functionality. With a keen eye for design and a mastery of programming languages, I sculpt digital landscapes that captivate and inspire. Whether it's crafting pixel-perfect frontend interfaces or architecting robust backend systems, I bring ideas to life with precision and flair.
+From slick **frontend designs** to solid **backend systems**, I build web solutions that are fast, functional, and fun. I love experimenting with new tools and pushing the limits of what’s possible.
 
-### Let's Collaborate! 🚀
+---
 
-I'm always on the lookout for exciting projects and collaboration opportunities. Whether you're seeking Minecraft server optimization, web development magic, or simply want to connect over shared interests, I'm just a message away. Let's join forces and create something truly remarkable!
+### Let's Connect! 🚀
+
+Want to collaborate? Have a project in mind? Or just wanna chat tech?  
+Reach out—I'm always excited to meet new people and build something amazing!
+
+---
+
+**✨ Let’s make something awesome together!**
