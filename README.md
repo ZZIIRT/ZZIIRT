@@ -4,7 +4,6 @@
 
 <!-- Social Links -->
 <p align="center">
-  <a href="https://t.me/ZZRTK" style="text-decoration: none; color: #27A6E0; font-weight: bold;">TG</a> 
   <a href="https://zzii.site" style="text-decoration: none; color: #833AB4; font-weight: bold;">RESUME</a>
 </p>
 
