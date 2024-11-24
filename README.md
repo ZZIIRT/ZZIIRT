@@ -47,7 +47,7 @@ Hey there! I'm ZZII—a tech-savvy dreamer who loves **building worlds** in Mine
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt.js" />
+  <img src="https://img.shields.io/badge/Nuxt.js-42B883?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt.js" />
   <img src="https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
 </p>
 
