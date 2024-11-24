@@ -4,7 +4,7 @@
 
 <!-- Social Links -->
 <p align="center">
-  <a href="https://zzii.site" style="text-decoration: none; color: #833AB4; font-weight: bold;">RESUME</a>
+  <a href="https://app.zzii.info" style="text-decoration: none; color: #833AB4; font-weight: bold;">RESUME</a>
 </p>
 
 ### About Me
