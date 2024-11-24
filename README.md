@@ -59,14 +59,6 @@ Hey there! I'm ZZII—a tech-savvy dreamer who loves **building worlds** in Mine
 
 ---
 
-### Fun Fact 🚀
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding Fun" width="50%" />
-</div>
-
----
-
 ### Databases 🗄️
 
 <p align="center">
