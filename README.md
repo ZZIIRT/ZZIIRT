@@ -9,8 +9,6 @@
   </a>
 </p>
 
----
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/48876993/235451937-a2c906af-f8e4-4f6b-8a14-453f96de3c3d.gif" alt="Cool Line Divider" width="80%">
 </div>
@@ -70,10 +68,6 @@ Hey there! I'm ZZII—a tech-savvy dreamer who loves **building worlds** in Mine
 
 <div align="center">
   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Minecraft Mastery" width="50%" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/48876993/235452180-6c019176-1287-4ba7-a2fc-6f46c5b69ee5.gif" alt="Cool Line Divider" width="80%">
 </div>
 
 ---
