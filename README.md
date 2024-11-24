@@ -23,64 +23,57 @@ Hey there! I'm ZZII—a tech-savvy dreamer who loves **building worlds** in Mine
 
 ---
 
-### Now Playing 🎵
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/48876993/235452053-429f3a6b-2cda-4b0c-9fc0-3bdff671e2c1.gif" alt="Cool Divider" width="80%">
+</div>
+
+---
+
+### My Tech Stack 🛠️
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎶_Nothing_Playing-555555?style=for-the-badge&logo=spotify&logoColor=1DB954" alt="Now Playing" />
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
+
+<p align="center">
+  <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt.js" />
+  <img src="https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+</p>
+
+<p align="center">
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
 ---
 
-### Top Tracks 🎧
+### Fun Fact 🚀
 
-<p align="center">
-  <table>
-    <thead>
-      <tr>
-        <th>Rank</th>
-        <th>Track</th>
-        <th>Artist</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>1</td>
-        <td>Sage Motel</td>
-        <td>Monophonics, Kelly Finnigan</td>
-      </tr>
-      <tr>
-        <td>2</td>
-        <td>Texas Sun</td>
-        <td>Khruangbin, Leon Bridges</td>
-      </tr>
-      <tr>
-        <td>3</td>
-        <td>Flow With It</td>
-        <td>St. Paul & The Broken Bones</td>
-      </tr>
-    </tbody>
-  </table>
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding Fun" width="50%" />
+</div>
 
 ---
 
-### Stats & Visualizations 📊
+### Databases 🗄️
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zzii&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzii&layout=compact&theme=radical" alt="Top Languages" width="45%" />
-</p>
-
----
-
-### Stargazers & Contributions 🌟
-
-<p align="center">
-  <img src="https://starchart.cc/zzii/MyRepo.svg" alt="Star Chart" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/48876993/235452180-6c019176-1287-4ba7-a2fc-6f46c5b69ee5.gif" alt="Cool Line Divider" width="80%">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
 ---
@@ -88,6 +81,16 @@ Hey there! I'm ZZII—a tech-savvy dreamer who loves **building worlds** in Mine
 ### Minecraft Mastery 🎮
 
 I’ve been **optimizing servers**, creating **custom plugins**, and building epic **Minecraft experiences** for years. Whether it’s **PvP arenas**, **Redstone magic**, or **performance tuning**, I’m the guy who ensures everything works perfectly.
+
+<div align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Minecraft Mastery" width="50%" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/48876993/235452180-6c019176-1287-4ba7-a2fc-6f46c5b69ee5.gif" alt="Cool Line Divider" width="80%">
+</div>
 
 ---
 
@@ -103,7 +106,7 @@ From slick **frontend designs** to solid **backend systems**, I build web soluti
 
 ---
 
-### Let's Connect! 🚀
+### Let's Connect! 🤝
 
 Want to collaborate? Have a project in mind? Or just wanna chat tech?  
 Reach out—I'm always excited to meet new people and build something amazing!
