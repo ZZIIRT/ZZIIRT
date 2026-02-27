@@ -1,15 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0d0d0d&height=200&section=header&text=ZZII-RTK&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=40&descAlignY=60&descSize=18&descColor=666666" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0d0d0d&height=200&section=header&text=&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=40&descAlignY=60&descSize=18&descColor=666666" width="100%"/>
 </div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=E2ECC6&center=true&vCenter=true&width=560&lines=Loading+libraries...+please+wait;Compiling+modules...+done+%E2%9C%93;Building+project...;Deploying+to+production...+%E2%9C%93;Full+Stack+%7C+Minecraft+Dev+%F0%9F%9A%80" alt="Typing SVG"/>
-</div>
-
-<br/>
-
-
-<br/>
 
 <div align="center">
   <a href="https://app.zzii.info" target="_blank">
